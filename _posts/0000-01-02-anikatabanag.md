@@ -7,7 +7,7 @@ Use the right arrow to begin!
 
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "hola mi amor"
 ---
 Your text
 Use the left arrow to go back!
